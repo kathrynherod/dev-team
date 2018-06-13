@@ -1,0 +1,11 @@
+.member__card-container {
+    border: 1px solid #ddd;
+    border-radius: 15px;
+    margin-bottom: 1rem;    
+    padding: 1rem;
+    width: 22vw;
+}
+
+.member__card-container:hover {
+    border: 1px solid black;
+}

@@ -1,0 +1,26 @@
+.team__container {
+    display: grid;
+    grid-template-rows: 1fr 9fr;
+    height: 100vh;
+}
+.team__header {
+    font-size: 3rem;
+    grid-area: 1/1/1/1;
+    text-align: center;
+}
+.team__body {
+    display: flex;
+    flex-direction: column;
+    grid-area: 2/1/2/1;
+}
+.team__body > img {
+    align-self: center;
+    max-width: 25vw;
+}
+.team__member-cards {
+    align-items: center;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    padding: 1rem;
+}

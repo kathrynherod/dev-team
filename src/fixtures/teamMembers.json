@@ -1,0 +1,117 @@
+{
+    "teamMembers": [
+        {
+            "id": 0,
+            "name": "Ken Akpati",
+            "birthday": "12/22",
+            "role": "Team Lead",
+            "hubStartDate": "07/01/17",
+            "email": "kenneth.akpati@accenture.com"
+        },
+        {
+            "id": 1,
+            "name": "Gerald Ruiz",
+            "birthday": "4/20",
+            "role": "User Experience Engineering Senior Analyst",
+            "hubStartDate": "",
+            "email": "gerald.ruiz@accenture.com"
+        },
+        {
+            "id": 2,
+            "name": "Artem Tregubchak",
+            "birthday": "09/06",
+            "role": "Application Development Senior Analyst",
+            "hubStartDate": "12/13/17",
+            "email": "artem.tregubchak@accenture.com"
+        },
+        {
+            "id": 3,
+            "name": "Ayoade Dare",
+            "birthday": "",
+            "role": "User Experience Engineering Senior Analyst",
+            "hubStartDate": "12/13/17",
+            "email": "ayoade.g.dare@accenture.com"
+        },
+        {
+            "id": 4,
+            "name": "Eric Chow",
+            "birthday": "12/24",
+            "role": "Application Development Senior Analyst",
+            "hubStartDate": "12/13/17",
+            "email": "e.chow@accenture.com"
+        },
+        {
+            "id": 5,
+            "name": "Johee Chung",
+            "birthday": "05/27",
+            "role": "Application Development Senior Analyst",
+            "hubStartDate": "12/13/17",
+            "email": "johee.g.chung@accenture.com"
+        },
+        {
+            "id": 6,
+            "name": "Kathryn Herod",
+            "birthday": "05/08",
+            "role": "Application Development Senior Analyst",
+            "hubStartDate": "12/13/17",
+            "email": "kathryn.herod@accenture.com"
+        },
+        {
+            "id": 7,
+            "name": "Alexey Tyulyaev",
+            "birthday": "",
+            "role": "Application Development Specialist",
+            "hubStartDate": "12/13/17",
+            "email": "alexey.tyulyaev@accenture.com"
+        },
+        {
+            "id": 8,
+            "name": "Ahmed Aly",
+            "birthday": "05/02",
+            "role": "Application Development Specialist",
+            "hubStartDate": "",
+            "email": "ahmed.aly@accenture.com"
+        },
+        {
+            "id": 9,
+            "name": "John McCormack",
+            "birthday": "",
+            "role": "Digital Business Integration Consultant",
+            "hubStartDate": "",
+            "email": "john.mccormack@accenture.com"
+        },
+        {
+            "id": 10,
+            "name": "Stephen Wong",
+            "birthday": "",
+            "role": "Digital Business Integration Consultant",
+            "hubStartDate": "",
+            "email": "stephen.wong@accenture.com"
+        },
+        {
+            "id": 11,
+            "name": "Yousuf Uddin",
+            "birthday": "",
+            "role": "Digital Business Integration Manager",
+            "hubStartDate": "11/19/17",
+            "email": "yousuf.uddin@accenture.com"
+        },
+        {
+            "id": 12,
+            "name": "Aaron Roberts",
+            "birthday": "8/11",
+            "role": "Digital Business Integration Analyst",
+            "hubStartDate": "05/29/18",
+            "email": "aaron.p.roberts@accenture.com"
+        },
+        {
+            "id": 13,
+            "name": "Casey Brennan",
+            "birthday": "",
+            "role": "Digital Business Integration Analyst",
+            "hubStartDate": "05/29/18",
+            "email": "casey.brennan@accenture.com"
+        }
+        
+    ]
+}
